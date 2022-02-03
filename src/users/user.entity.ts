@@ -6,11 +6,5 @@ export class User {
   id: number;
 
   @Column()
-  firstName: string;
-
-  @Column()
-  lastName: string;
-
-  @Column({ default: true })
-  idActive: boolean;
+  name: string;
 }
