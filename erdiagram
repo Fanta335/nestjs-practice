@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="202px" preserveAspectRatio="none" style="width:162px;height:202px;background:#FFFFFF;" version="1.1" viewBox="0 0 162 202" width="162px" zoomAndPan="magnify"><defs/><g><!--MD5=[e59cf999063292dce8d6ea34dd10a338]
+class user--><rect codeLine="25" fill="#FFFFFF" height="57.5781" id="user" rx="2.5" ry="2.5" style="stroke:#2E8B57;stroke-width:1.5;" width="148.3333" x="7" y="7"/><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="33" x="64.6667" y="23.1387">user</text><line style="stroke:#2E8B57;stroke-width:1.5;" x1="8" x2="154.3333" y1="30.9688" y2="30.9688"/><path d="M19.0417,37.6901 C17.7767,37.6901 16.75,38.7168 16.75,39.9818 C16.75,40.1284 16.75,40.2751 16.7775,40.4126 L14,43.1901 L14,45.0234 L16.75,45.0234 L16.75,43.1901 L18.5833,43.1901 L18.5833,42.2734 L18.6108,42.2459 C18.7483,42.2734 18.895,42.2734 19.0417,42.2734 C20.3067,42.2734 21.3333,41.2468 21.3333,39.9818 C21.3333,38.7168 20.3067,37.6901 19.0417,37.6901 M19.5,38.6068 C20.0042,38.6068 20.4167,39.0193 20.4167,39.5234 C20.4167,40.0276 20.0042,40.4401 19.5,40.4401 C18.9958,40.4401 18.5833,40.0276 18.5833,39.5234 C18.5833,39.0193 18.9958,38.6068 19.5,38.6068 " fill="#B8860B" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="12" x="26.3333" y="45.1792">id</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="47" x="38.3333" y="45.1792">: INT(11)</text><path d="M16.75,50.4948 C15.2283,50.4948 14,51.7231 14,53.2448 C14,54.7665 15.2283,55.9948 16.75,55.9948 C18.2717,55.9948 19.5,54.7665 19.5,53.2448 C19.5,51.7231 18.2717,50.4948 16.75,50.4948 " fill="#EFEFEF" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="123" x="26.3333" y="57.9839">name: VARCHAR(255)</text><!--MD5=[c36487e19401e64ecf2d5652ff2f51fa]
+class pet--><rect codeLine="30" fill="#FFFFFF" height="70.3828" id="pet" rx="2.5" ry="2.5" style="stroke:#2E8B57;stroke-width:1.5;" width="148.3333" x="7" y="125"/><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="25" x="68.6667" y="141.1387">pet</text><line style="stroke:#2E8B57;stroke-width:1.5;" x1="8" x2="154.3333" y1="148.9688" y2="148.9688"/><path d="M19.0417,155.6901 C17.7767,155.6901 16.75,156.7168 16.75,157.9818 C16.75,158.1284 16.75,158.2751 16.7775,158.4126 L14,161.1901 L14,163.0234 L16.75,163.0234 L16.75,161.1901 L18.5833,161.1901 L18.5833,160.2734 L18.6108,160.2459 C18.7483,160.2734 18.895,160.2734 19.0417,160.2734 C20.3067,160.2734 21.3333,159.2468 21.3333,157.9818 C21.3333,156.7168 20.3067,155.6901 19.0417,155.6901 M19.5,156.6068 C20.0042,156.6068 20.4167,157.0193 20.4167,157.5234 C20.4167,158.0276 20.0042,158.4401 19.5,158.4401 C18.9958,158.4401 18.5833,158.0276 18.5833,157.5234 C18.5833,157.0193 18.9958,156.6068 19.5,156.6068 " fill="#B8860B" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" font-weight="bold" lengthAdjust="spacing" textLength="12" x="26.3333" y="163.1792">id</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="47" x="38.3333" y="163.1792">: INT(11)</text><path d="M16.75,168.4948 C15.2283,168.4948 14,169.7231 14,171.2448 C14,172.7665 15.2283,173.9948 16.75,173.9948 C18.2717,173.9948 19.5,172.7665 19.5,171.2448 C19.5,169.7231 18.2717,168.4948 16.75,168.4948 " fill="#EFEFEF" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="123" x="26.3333" y="175.9839">name: VARCHAR(255)</text><path d="M19.0417,181.2995 C17.7767,181.2995 16.75,182.3261 16.75,183.5911 C16.75,183.7378 16.75,183.8845 16.7775,184.022 L14,186.7995 L14,188.6328 L16.75,188.6328 L16.75,186.7995 L18.5833,186.7995 L18.5833,185.8828 L18.6108,185.8553 C18.7483,185.8828 18.895,185.8828 19.0417,185.8828 C20.3067,185.8828 21.3333,184.8561 21.3333,183.5911 C21.3333,182.3261 20.3067,181.2995 19.0417,181.2995 M19.5,182.2161 C20.0042,182.2161 20.4167,182.6286 20.4167,183.1328 C20.4167,183.637 20.0042,184.0495 19.5,184.0495 C18.9958,184.0495 18.5833,183.637 18.5833,183.1328 C18.5833,182.6286 18.9958,182.2161 19.5,182.2161 " fill="#AAAAAA" style="stroke:;stroke-width:0.0;stroke-dasharray:;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="123" x="26.3333" y="188.7886">ownerId: INT(11) «FK»</text><!--MD5=[cbe676c7c854ca726104f73e65f8fa10]
+link user to pet--><path codeLine="36" d="M81,73.072 C81,73.072 81,116.9263 81,116.9263 " fill="none" id="user-pet" style="stroke:#2E8B57;stroke-width:1.0;"/><line style="stroke:#2E8B57;stroke-width:1.0;" x1="81" x2="87" y1="116.9263" y2="124.9263"/><line style="stroke:#2E8B57;stroke-width:1.0;" x1="81" x2="75" y1="116.9263" y2="124.9263"/><line style="stroke:#2E8B57;stroke-width:1.0;" x1="81" x2="81" y1="116.9263" y2="124.9263"/><ellipse cx="81" cy="110.9263" fill="none" rx="4" ry="4" style="stroke:#2E8B57;stroke-width:1.0;"/><line style="stroke:#2E8B57;stroke-width:1.0;" x1="77" x2="85" y1="69.072" y2="69.072"/><line style="stroke:#2E8B57;stroke-width:1.0;" x1="77" x2="85" y1="72.072" y2="72.072"/><line style="stroke:#2E8B57;stroke-width:1.0;" x1="81" x2="81" y1="73.072" y2="65.072"/><!--MD5=[c553ad218cbe3d7a6f35f603ca980679]
+@startuml
+!define table(ename, dbname) entity "<b>dbname</b>"
+
+!define pkey(x) {field} <b><color:DarkGoldenRod><&key></color> x</b>
+!define fkey(x) {field} <color:#AAAAAA><&key></color> x
+!define column(x) {field} <color:#EFEFEF><&media-record></color> x
+
+hide stereotypes
+hide methods
+hide circle
+
+top to bottom direction
+
+skinparam roundcorner 5
+skinparam linetype ortho
+skinparam shadowing false
+skinparam handwritten false
+
+skinparam class {
+    BackgroundColor white
+    ArrowColor seagreen
+    BorderColor seagreen
+}
+
+
+table( User, user ) as user {
+  pkey( id ): INT(11) 
+  column( name ): VARCHAR(255) 
+}
+
+table( Pet, pet ) as pet {
+  pkey( id ): INT(11) 
+  column( name ): VARCHAR(255) 
+  fkey( ownerId ): INT(11) <<FK>>
+}
+
+"user" ||- -o{ "pet"
+@enduml
+
+@startuml
+
+
+hide stereotypes
+hide methods
+hide circle
+
+top to bottom direction
+
+skinparam roundcorner 5
+skinparam linetype ortho
+skinparam shadowing false
+skinparam handwritten false
+
+skinparam class {
+    BackgroundColor white
+    ArrowColor seagreen
+    BorderColor seagreen
+}
+
+
+entity "<b>user</b>" as user {
+  {field} <b><color:DarkGoldenRod><&key></color> id</b>: INT(11) 
+  {field} <color:#EFEFEF><&media-record></color> name: VARCHAR(255) 
+}
+
+entity "<b>pet</b>" as pet {
+  {field} <b><color:DarkGoldenRod><&key></color> id</b>: INT(11) 
+  {field} <color:#EFEFEF><&media-record></color> name: VARCHAR(255) 
+  {field} <color:#AAAAAA><&key></color> ownerId: INT(11) <<FK>>
+}
+
+"user" ||- -o{ "pet"
+@enduml
+
+PlantUML version 1.2022.1(Tue Feb 01 18:19:58 UTC 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
